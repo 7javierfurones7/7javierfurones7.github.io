@@ -6,7 +6,6 @@ El objetivo de esta página es conseguir indexarla lo más alto posible cuando a
 
 Un calçot subatómico es un calçot, pero subatómico. 
 
-```markdown
 Un calçot es un brote de una variedad de cebollas tiernas.
 
 _Pero, ¿tiene sentido un calçot de tamaño subatómico?_
